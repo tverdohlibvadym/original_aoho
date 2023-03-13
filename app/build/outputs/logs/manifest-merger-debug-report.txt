@@ -1,0 +1,83 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml:2:1-15:12
+	package
+		INJECTED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml
+		ADDED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml:2:1-15:12
+		INJECTED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml
+	android:compileSdkVersionCodename
+		ADDED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml:2:153-200
+	android:versionName
+		ADDED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml:2:95-121
+		INJECTED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml
+		INJECTED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml
+	android:compileSdkVersion
+		ADDED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml:2:122-152
+	xmlns:android
+		ADDED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml:2:70-94
+		INJECTED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml
+		INJECTED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml
+	platformBuildVersionName
+		ADDED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml:3:41-79
+	platformBuildVersionCode
+		ADDED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml:3:11-40
+uses-sdk
+ADDED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml:4:5-42
+INJECTED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml:4:5-42
+INJECTED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml:4:5-42
+INJECTED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml:4:5-42
+INJECTED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml:4:5-42
+	android:targetSdkVersion
+		INJECTED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml
+		ADDED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml:4:5-42
+		INJECTED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml:4:15-40
+		INJECTED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml
+		INJECTED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml:5:5-12:19
+	android:label
+		ADDED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml:5:18-50
+	android:hardwareAccelerated
+		ADDED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml:5:81-116
+	android:icon
+		ADDED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml:5:51-80
+activity#zhook.aohoc.bridge.platform.andr.AOHOActivity
+ADDED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml:6:9-11:20
+	android:screenOrientation
+		ADDED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml:6:145-181
+	android:label
+		ADDED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml:6:19-51
+	android:launchMode
+		ADDED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml:6:113-144
+	android:configChanges
+		ADDED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml:6:182-232
+	android:name
+		ADDED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml:6:52-112
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml:7:13-10:29
+action#android.intent.action.MAIN
+ADDED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml:8:17-68
+	android:name
+		ADDED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml:8:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml:9:17-76
+	android:name
+		ADDED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml:9:27-74
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml:13:5-74
+	android:name
+		ADDED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml:13:22-72
+uses-permission#android.permission.INTERNET
+ADDED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml:14:5-66
+	android:name
+		ADDED from /home/docker/Downloads/5/app/src/main/AndroidManifest.xml:14:22-64

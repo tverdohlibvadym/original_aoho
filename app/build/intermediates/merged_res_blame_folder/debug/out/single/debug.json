@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "/home/docker/Downloads/5/app/build/intermediates/res/merged/debug/drawable_icon.png.flat",
+        "source": "/home/docker/Downloads/5/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/home/docker/Downloads/5/app/build/intermediates/res/merged/debug/raw_text_rs.txt.flat",
+        "source": "/home/docker/Downloads/5/app/src/main/res/raw/text_rs.txt"
+    },
+    {
+        "merged": "/home/docker/Downloads/5/app/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/home/docker/Downloads/5/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/docker/Downloads/5/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_icon.png.flat",
+        "source": "/home/docker/Downloads/5/app/src/main/res/drawable-mdpi-v4/icon.png"
+    },
+    {
+        "merged": "/home/docker/Downloads/5/app/build/intermediates/res/merged/debug/drawable_bright.png.flat",
+        "source": "/home/docker/Downloads/5/app/src/main/res/drawable/bright.png"
+    },
+    {
+        "merged": "/home/docker/Downloads/5/app/build/intermediates/res/merged/debug/drawable_progress.png.flat",
+        "source": "/home/docker/Downloads/5/app/src/main/res/drawable/progress.png"
+    },
+    {
+        "merged": "/home/docker/Downloads/5/app/build/intermediates/res/merged/debug/drawable_bcenter.png.flat",
+        "source": "/home/docker/Downloads/5/app/src/main/res/drawable/bcenter.png"
+    },
+    {
+        "merged": "/home/docker/Downloads/5/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_icon.png.flat",
+        "source": "/home/docker/Downloads/5/app/src/main/res/drawable-hdpi-v4/icon.png"
+    },
+    {
+        "merged": "/home/docker/Downloads/5/app/build/intermediates/res/merged/debug/drawable_downpanel.png.flat",
+        "source": "/home/docker/Downloads/5/app/src/main/res/drawable/downpanel.png"
+    },
+    {
+        "merged": "/home/docker/Downloads/5/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_icon.png.flat",
+        "source": "/home/docker/Downloads/5/app/src/main/res/drawable-xhdpi-v4/icon.png"
+    },
+    {
+        "merged": "/home/docker/Downloads/5/app/build/intermediates/res/merged/debug/drawable_toloop2.png.flat",
+        "source": "/home/docker/Downloads/5/app/src/main/res/drawable/toloop2.png"
+    },
+    {
+        "merged": "/home/docker/Downloads/5/app/build/intermediates/res/merged/debug/drawable_panellandscape.png.flat",
+        "source": "/home/docker/Downloads/5/app/src/main/res/drawable/panellandscape.png"
+    },
+    {
+        "merged": "/home/docker/Downloads/5/app/build/intermediates/res/merged/debug/drawable-ldpi-v4_icon.png.flat",
+        "source": "/home/docker/Downloads/5/app/src/main/res/drawable-ldpi-v4/icon.png"
+    },
+    {
+        "merged": "/home/docker/Downloads/5/app/build/intermediates/res/merged/debug/raw_text_en.txt.flat",
+        "source": "/home/docker/Downloads/5/app/src/main/res/raw/text_en.txt"
+    },
+    {
+        "merged": "/home/docker/Downloads/5/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_icon.png.flat",
+        "source": "/home/docker/Downloads/5/app/src/main/res/drawable-xxhdpi-v4/icon.png"
+    },
+    {
+        "merged": "/home/docker/Downloads/5/app/build/intermediates/res/merged/debug/drawable_title.jpg.flat",
+        "source": "/home/docker/Downloads/5/app/src/main/res/drawable/title.jpg"
+    },
+    {
+        "merged": "/home/docker/Downloads/5/app/build/intermediates/res/merged/debug/drawable_bleft.png.flat",
+        "source": "/home/docker/Downloads/5/app/src/main/res/drawable/bleft.png"
+    },
+    {
+        "merged": "/home/docker/Downloads/5/app/build/intermediates/res/merged/debug/raw_text_sp.txt.flat",
+        "source": "/home/docker/Downloads/5/app/src/main/res/raw/text_sp.txt"
+    },
+    {
+        "merged": "/home/docker/Downloads/5/app/build/intermediates/res/merged/debug/drawable_toloop1.png.flat",
+        "source": "/home/docker/Downloads/5/app/src/main/res/drawable/toloop1.png"
+    },
+    {
+        "merged": "/home/docker/Downloads/5/app/build/intermediates/res/merged/debug/drawable_bdown.png.flat",
+        "source": "/home/docker/Downloads/5/app/src/main/res/drawable/bdown.png"
+    },
+    {
+        "merged": "/home/docker/Downloads/5/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_icon.png.flat",
+        "source": "/home/docker/Downloads/5/app/src/main/res/drawable-xxxhdpi-v4/icon.png"
+    },
+    {
+        "merged": "/home/docker/Downloads/5/app/build/intermediates/res/merged/debug/layout_input.xml.flat",
+        "source": "/home/docker/Downloads/5/app/src/main/res/layout/input.xml"
+    },
+    {
+        "merged": "/home/docker/Downloads/5/app/build/intermediates/res/merged/debug/drawable_btop.png.flat",
+        "source": "/home/docker/Downloads/5/app/src/main/res/drawable/btop.png"
+    },
+    {
+        "merged": "/home/docker/Downloads/5/app/build/intermediates/res/merged/debug/raw_langs.txt.flat",
+        "source": "/home/docker/Downloads/5/app/src/main/res/raw/langs.txt"
+    },
+    {
+        "merged": "/home/docker/Downloads/5/app/build/intermediates/res/merged/debug/drawable_icon1.png.flat",
+        "source": "/home/docker/Downloads/5/app/src/main/res/drawable/icon1.png"
+    },
+    {
+        "merged": "/home/docker/Downloads/5/app/build/intermediates/res/merged/debug/drawable_orient.png.flat",
+        "source": "/home/docker/Downloads/5/app/src/main/res/drawable/orient.png"
+    },
+    {
+        "merged": "/home/docker/Downloads/5/app/build/intermediates/res/merged/debug/raw_text_ru.txt.flat",
+        "source": "/home/docker/Downloads/5/app/src/main/res/raw/text_ru.txt"
+    }
+]

@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/docker/Downloads/5/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/docker/Downloads/5/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "40",
+                        "endOffsets": "91"
+                    }
+                },
+                {
+                    "source": "/home/docker/Downloads/5/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3,6,5,4,2",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "115,253,208,164,55",
+                        "endColumns": "48,48,44,43,59",
+                        "endOffsets": "159,297,248,203,110"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "96,145,194,239,283",
+                        "endColumns": "48,48,44,43,59",
+                        "endOffsets": "140,189,234,278,338"
+                    }
+                }
+            ]
+        }
+    ]
+}
